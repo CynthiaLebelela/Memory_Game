@@ -1,5 +1,5 @@
 // Only 2 pairs of matching numbers
-const cards = ["🤣", "👏", "🧗🏽‍♀️", ,"💃", "🛌🏽", "🤸🏾‍♀️", "👑", "👨‍🎓", "👑", "🧗🏽‍♀️", "🤣", "🛌🏽", "👏", "💃", ,"🤸🏾‍♀️", "👨‍🎓"];
+const cards = ["K", "P", "C", ,"D", "B", "J", "S", "G", "S", "C", "K", "B", "P", "D", ,"J", "G"];
 
 
 // Shuffle the cards randomly
